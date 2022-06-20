@@ -23,5 +23,6 @@
 		<property name="hibernate.hbm2ddl.auto">update</property>
 		
 		<mapping resource="contato/Contato.hbm.xml"/>
+		
 	</session-factory>
 </hibernate-configuration>
